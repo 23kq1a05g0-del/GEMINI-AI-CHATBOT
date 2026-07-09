@@ -2,7 +2,7 @@
 ========================================================
 AI Studio Configuration
 ========================================================
-Author : Lakshman
+Author : jhansi tumma
 Description :
 Central configuration for the AI Studio project.
 ========================================================
