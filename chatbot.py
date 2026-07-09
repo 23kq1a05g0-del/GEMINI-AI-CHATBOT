@@ -7,7 +7,7 @@ Supports:
 1. Google Gemini
 2. Hugging Face
 
-Author : Lakshman
+Author : jhansi tumma
 ====================================================
 """
 
